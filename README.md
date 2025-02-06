@@ -7,15 +7,15 @@ You can find more information about Kafka-ML and the methodology in the followin
 If you use this code or the methodology in your research, please cite one of the following jobs:
 
 ```bibtex
-@article{chaves2024softsensor,
-    title={A soft sensor open-source methodology for inexpensive monitoring of water quality: a case study of NO3 concentrations},
-    author={Chaves, A.J., et al.},
-    journal={TBD},
-    year={2024},
-    volume={-},
-    pages={-},
-    doi={-}
+@article{chaves2025soft,
+  title={A soft sensor open-source methodology for inexpensive monitoring of water quality: A case study of NO3-concentrations},
+  author={Chaves, Antonio Jes{\'u}s and Mart{\'\i}n, Cristian and Torres, Luis Llopis and D{\'\i}az, Manuel and Fern{\'a}ndez-Ortega, Jaime and Barber{\'a}, Juan Antonio and Andreo, Bartolom{\'e}},
+  journal={Journal of Computational Science},
+  pages={102522},
+  year={2025},
+  publisher={Elsevier}
 }
+
 
 @incollection{chaves2023methodology,
   title={A methodology for the development of soft sensors with Kafka-ML},
